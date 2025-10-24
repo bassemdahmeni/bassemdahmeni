@@ -2,8 +2,12 @@
 
 🔭 **Currently Exploring**: Deepening expertise in **Computer Vision** and **Large Language Models (LLMs)**  
 *Advancing computer vision capabilities through advanced image processing, object detection, and generative AI applications. Simultaneously expanding LLM expertise through fine-tuning, optimization, and deployment of large-scale language models for real-world applications.*
+
+
 🌱 **Learning Focus**: Advancing skills in **LLMs, Computer Vision, and MLOps methodologies**  
 *Structured learning path covering: Transformer architectures, attention mechanisms, model fine-tuning techniques (LoRA, adapters), computer vision neural networks (CNNs, GANs), and end-to-end MLOps pipeline development for scalable AI deployment.*  
+
+
 ⚡ **Beyond Code**: Strength athlete with a 315lb bench press, applying the same discipline and progressive overload principles to technical skill development
 
 ## 📬 Get In Touch
